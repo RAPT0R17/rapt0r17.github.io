@@ -55,6 +55,18 @@ li.blue {
 	float: left;
 }
 
+.style01 {
+	background: #ffaa00;
+}
+
+.style02 {
+	background: #0077dd;
+}
+
+.style03 {
+	background: #008800;
+}
+
 .withpadding {
 	padding: 10px;
 }
