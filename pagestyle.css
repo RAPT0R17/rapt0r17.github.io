@@ -90,6 +90,13 @@ li.blue {
 	vertical-align: top;
 }
 
+#logo {
+	width: 100px;
+	height: 100px;
+	vertical-align: top;
+	align: center;
+}
+
 #right {
 	display: inline-block;
 }
