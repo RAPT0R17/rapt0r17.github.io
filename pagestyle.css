@@ -72,7 +72,7 @@ li.blue {
 }
 
 .withinlineblock {
-	display: inline-block;
+	/*display: inline-block;*/
 }
 
 .withbottomborder {
@@ -92,7 +92,7 @@ li.blue {
 }
 
 #content {
-	/*display: table;*/
+	display: table;
 }
 
 #left {
