@@ -95,7 +95,6 @@ li.blue {
 #left {
 	width: 250px;
 	float: left;
-	margin-bottom: 0px; 
 	background: linear-gradient(to right, #444444, #666666);
 }
 
