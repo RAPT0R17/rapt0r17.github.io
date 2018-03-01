@@ -99,6 +99,7 @@ li.blue {
 
 #left {
 	height: 100%;
+	overflow: hidden;
 	width: 250px;
 	float: left;
 	background: linear-gradient(to right, #444444, #666666);
