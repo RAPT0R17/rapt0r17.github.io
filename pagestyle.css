@@ -92,14 +92,17 @@ li.blue {
 }
 
 #content {
-	display: table;
+	/*display: table;*/
+	height: auto;
+	overflow: hidden;
 }
 
 #left {
 	width: 250px;
+	float: left;
 	background: linear-gradient(to right, #444444, #666666);
-	display: table-cell;
-	vertical-align: top;
+	/*display: table-cell;
+	vertical-align: top;*/
 }
 
 #logo {
@@ -113,7 +116,10 @@ li.blue {
 }
 
 #right {
-	display: inline-block;
+	/*display: inline-block;*/
+	float: none; 
+	width: auto;
+	overflow: hidden;
 }
 
 #footer {
